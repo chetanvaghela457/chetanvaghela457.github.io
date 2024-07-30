@@ -840,7 +840,7 @@ main {
 .skills-list { padding: 20px;  }
 
 .skills-list li {
-  list-style: disc;
+  list-style: none;
 }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
